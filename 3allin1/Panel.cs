@@ -131,6 +131,7 @@ namespace _3allin1
                         AramaNew.Arama(cmda);
                         break;
                     default:
+                        ThirdSelect();
                         break;
                 }
 
